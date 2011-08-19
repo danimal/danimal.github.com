@@ -1,0 +1,28 @@
+@font-face {
+font-family: "Junction";
+src: url("http://widezero.com/fonts/junction.otf")
+}
+@font-face {
+font-family: "League Gothic";
+src: url("http://widezero.com/fonts/LeagueGothic.otf")
+}
+body {
+background: #254872;
+color: white;
+font-family: Helvetica, sans-serif;
+margin: 15%;
+}
+h1{
+font-size: 400%;
+font-weight: normal;
+font-family: "League Gothic", Helvetica, sans-serif;
+text-align: center;
+color: #f4de16;
+}
+h2{
+font-weight: normal;
+color: #f4de16;
+}
+a {
+color: white;
+}
